@@ -1,6 +1,5 @@
 import json
 import pathlib
-
 import typer
 
 from ai import AI
