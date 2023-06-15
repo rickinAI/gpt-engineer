@@ -1,1 +1,8 @@
-Build a 'hello world' python app with next.js front end
+1. Create a new Next.js app using the command `npx create-next-app`.
+2. Install the required dependencies for Python using `pip3 install`.
+3. Create a new Python file in the root directory of your Next.js app.
+4. Write a Python script that prints "Hello, World!" to the console.
+5. In your Next.js app, create a new API route that calls the Python script using the `child_process` module.
+6. In your Next.js app, create a new page that displays the output of the API route.
+7. Build the Next.js app using `npm run build`.
+8. Deploy the app to an Azure Web App using the Azure CLI or the Azure portal.
